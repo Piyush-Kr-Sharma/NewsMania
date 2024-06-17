@@ -1,0 +1,47 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Where Trey Lance and 49ers rank among worst draft trades in NFL history - CBS Sports",
+      "description": "The 49ers traded Lance on Friday to the Cowboys",
+      "url": "https://www.cbssports.com/nfl/news/where-trey-lance-and-49ers-rank-among-worst-draft-trades-in-nfl-history/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/26/c553bcfa-8d68-4847-81b5-bdcd7c2a0fcf/thumbnail/1200x675/3ce17638591a5d4764a6bcdc87c2bbd9/trey-lance-g.jpg",
+      "publishedAt": "2023-08-26T14:21:00Z",
+      "content": "The 49ers have traded Trey Lance to the Cowboys for a 2024 fourth-round pick just two years after San Francisco traded three first-round picks to move up from the 12th overall pick to the third selec… [+7200 chars]"
+    },
+    
+    {
+      "source": { "id": null, "name": "MacRumors" },
+      "author": "MacRumors Staff",
+      "title": "Top Stories: iPhone 15 Rumors, iOS 17 Beta 7, and More - MacRumors",
+      "description": "The Apple rumor mill remains busy, as reports about the iPhone 15 lineup are continuing to fly with only a few weeks until Apple officially...",
+      "url": "https://www.macrumors.com/2023/08/26/top-stories-iphone-15-rumors-ios-17-beta-7/",
+      "urlToImage": "https://images.macrumors.com/t/phzaIrZM7gNK-7lI2DbB-FXm8SE=/1600x/article-new/2023/08/top-stories-26aug2023.jpg",
+      "publishedAt": "2023-08-26T13:00:00Z",
+      "content": "The Apple rumor mill remains busy, as reports about the iPhone 15 lineup are continuing to fly with only a few weeks until Apple officially introduces the new models. Apple is also wrapping up work o… [+3789 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Kerry Breen",
+      "title": "On the March on Washington's 60th anniversary, watch how CBS News covered the Civil Rights protest in 1963 - CBS News",
+      "description": "Martin Luther King Jr. made his famed \"I Have A Dream\" speech on the steps of the Lincoln Memorial on the afternoon of Aug. 28, 1963.",
+      "url": "https://www.cbsnews.com/news/march-on-washington-60th-anniversary-2023-civil-rights-movement-1963/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/23/87502c99-90ee-45cf-9e62-9c2020b67211/thumbnail/1200x630/ec436a5133617d3d3c72bb6a89a4df51/gettyimages-53016750.jpg?v=85153828b1c3c07a041ab8e73ff87e39",
+      "publishedAt": "2023-08-26T11:43:00Z",
+      "content": "To commemorate the 60th anniversary of the March on Washington, CBS News presents a special, season finale of BET's \"America In Black\" series with a look at the women behind the march in 1963, the vo… [+10813 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Motorsport.com" },
+      "author": "Jake Boxall-Legge",
+      "title": "F1 Dutch GP: Verstappen leads red flag-filled, wet final practice - Motorsport.com",
+      "description": "Max Verstappen headed a wet and thrice red-flagged final Formula 1 practice session for the Dutch Grand Prix to beat George Russell by just under four tenths of a second.",
+      "url": "https://www.motorsport.com/f1/news/f1-dutch-gp-verstappen-leads-red-flag-filled-wet-final-practice/10511711/",
+      "urlToImage": "https://cdn-8.motorsport.com/images/amp/YW7amaVY/s6/max-verstappen-red-bull-racing.jpg",
+      "publishedAt": "2023-08-26T10:42:30Z",
+      "content": "A rapid-fire final 10 minutes, produced by improving track conditions as the morning's heavy rain subsided, ended with Verstappen embarking on a series of quick runs having found much in the way of c… [+3051 chars]"
+    }
+  ]
+}
